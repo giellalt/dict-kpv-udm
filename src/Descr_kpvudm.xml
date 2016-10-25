@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>The material is based on the following 
+
+Цыпанов Й. 2007: Удмурт кыввор да лыддянкуд.
+Россияса наукаяс академия
+Урал юкöд
+Коми туялан шöрин
+Кыв, литература да история институт.
+ — Сыктывкар.
+
+transducers by Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>The material was prepared for electronic publication by Evgeni Tsypanov and Jack Rueter.
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+
+<e>
+   <lg>
+     <l pos="Descr">вак-вак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">гор-гор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">визув</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чож</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тэрыб</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вывтi еджыд</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">юг-юг</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="A">вывтi югыд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">юг-юг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жбыр-жбыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">лопыр-лопыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зиль-зёль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жингыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зёлякылӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жингыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зумыда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">йыг-йыг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">зумыда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">нуш-нуш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">сьӧкыда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">нуш-нуш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">зэв ӧдйӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ури-бери</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дзик пыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ури-бери</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ӧти здукӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ури-бери</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">рук-рук (порсь руксан шы)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">орсь-орсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">са сьӧд</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чиль-чиль</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="A">дзик сьӧд</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чиль-чиль</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="A">вач сьӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чиль-чиль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">стӧч</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">буретш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тiньгӧм</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+       </tg>
+       </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">триньгӧм</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+       </tg>
+       </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бовгӧм</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+       </tg>
+       </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">звӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тотш</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">йыг</t>
+       <t pos="Descr">торк</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="N">тотшкӧдчан шы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">йыг</t>
+       <t pos="Descr">торк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тотш-тотш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">йыг-йыг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чип-чип</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ӟильыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шаракылӧм</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ӵаштыр</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="Descr">шур-шар шыяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ӵаштыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шум</l>
+     <stg> <st/>
+     </stg>
+     </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ӵаш</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="N">ыджыд шы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ӵаш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шушкыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шӧнгыль</t>
+     </tg>
+   </mg>
+</e>
+</r>
