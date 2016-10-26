@@ -33,18 +33,6 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Num">гӧгӧр, кымын, матӧ</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Num">ог</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Num">дас</l>
      <stg> <st/>
      </stg>
@@ -57,7 +45,19 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Num">квайт, _i_ӧтк¡_/i_ _i_сй¡_/i_ _i_сш¡_/i_ квать</l>
+     <l pos="Num">джын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Num">кыкмос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">квайт</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -141,7 +141,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Num">мӧд юкӧдыс, джын</l>
+     <l pos="Num">мӧд юкӧдыс</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -244,12 +244,13 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Num">ог</t>
+       <t pos="Num">одӥг</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Num">ӧти, ӧтик</l>
+     <l pos="Num">ӧтик</l>
      <stg> <st/>
      </stg>
    </lg>

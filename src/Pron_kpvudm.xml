@@ -117,6 +117,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Pron">быд морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">котькудӥз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pron">быдтор</l>
      <stg> <st/>
      </stg>
@@ -129,19 +141,20 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pron">быдӧн, быд морт</l>
+     <l pos="Pron">быдӧн</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
+       <t pos="Pron">котькин</t>
        <t pos="Pron">котькудӥз</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pron">быдӧн, код кӧть</l>
+     <l pos="Pron">код кӧть</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -189,31 +202,20 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pron">кымын, мыйта</l>
+     <l pos="Pron">кымын</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
        <t pos="Pron">кудмында</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">кымын, мыйта, уна-ӧ</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
        <t pos="Pron">кӧня</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pron">лоӧ кӧ мый, мыйкӧ лоиг, мыйкӧ кӧ лоӧ</l>
+     <l pos="Pron">лоӧ кӧ мый</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -237,7 +239,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pron">медся, мед- </l>
+     <l pos="Pron">мед- </l>
      <stg> <st/>
      </stg>
    </lg>
@@ -249,7 +251,19 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="">менам</l>
+     <l pos="Pron">медся</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">самой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">менам</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -261,7 +275,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="">миян</l>
+     <l pos="Pron">миян</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -292,6 +306,43 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pron">мар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйкӧ кӧ лоӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">марысь-мар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйкӧ лоиг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">марысь-мар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйта</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">кудмында</t>
+       <t pos="Pron">кӧня</t>
      </tg>
    </mg>
 </e>
@@ -357,7 +408,19 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pron">нинӧм, немтор</l>
+     <l pos="Pron">немтор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">номыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нинӧм</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -383,7 +446,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pron">сымда, сы мында</l>
+     <l pos="Pron">сы мында</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -395,7 +458,31 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pron">тi, тiйӧ</l>
+     <l pos="Pron">сымда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">сомында</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">тӥ</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тiйӧ</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -426,6 +513,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pron">тон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">уна-ӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">кӧня</t>
      </tg>
    </mg>
 </e>

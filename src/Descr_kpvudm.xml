@@ -19,7 +19,30 @@ transducers by Giellatekno at UiT and members of the language communities.
  entries with objectionable translations, etc. If you find any errors 
  or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
      </sourcenote> </lics>
-
+<e>
+   <lg>
+     <l pos="N">бовгӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">буретш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Descr">вак-вак</l>
@@ -29,6 +52,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Descr">гор-гор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">вач сьӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чиль-чиль</t>
      </tg>
    </mg>
 </e>
@@ -46,49 +81,37 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">чож</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">шап</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">тэрыб</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">шап</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">вывтi еджыд</l>
      <stg> <st/>
      </stg>
-     </lg>
+   </lg>
    <mg>
      <tg xml:lang="udm">
        <t pos="Descr">юг-юг</t>
-       </tg>
-       </mg>
-       </e>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
-     <l pos="A">вывтi югыд</l>
+     <l pos="Adv">дзик пыр</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">юг-юг</t>
+       <t pos="Descr">ури-бери</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">дзик сьӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чиль-чиль</t>
      </tg>
    </mg>
 </e>
@@ -106,6 +129,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="N">звӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Descr">зиль-зёль</l>
      <stg> <st/>
      </stg>
@@ -118,48 +153,13 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="N">зёлякылӧм</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">жингыр</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Descr">зумыда</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">йыг-йыг</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Adv">зумыда</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">нуш-нуш</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">сьӧкыда</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
+       <t pos="Descr">йыг-йыг</t>
        <t pos="Descr">нуш-нуш</t>
      </tg>
    </mg>
@@ -178,25 +178,37 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Adv">дзик пыр</l>
+     <l pos="N">зёлякылӧм</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">ури-бери</t>
+       <t pos="Descr">жингыр</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Adv">ӧти здукӧн</l>
+     <l pos="Descr">кӧчиль</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">ури-бери</t>
+       <t pos="Descr">кече-пеле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кӧчӧ-пельӧй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">кече-пеле</t>
      </tg>
    </mg>
 </e>
@@ -215,30 +227,6 @@ transducers by Giellatekno at UiT and members of the language communities.
 <e>
    <lg>
      <l pos="A">са сьӧд</l>
-     <stg> <st/>
-     </stg>
-     </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">чиль-чиль</t>
-       </tg>
-       </mg>
-       </e>
-<e>
-   <lg>
-     <l pos="A">дзик сьӧд</l>
-     <stg> <st/>
-     </stg>
-     </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">чиль-чиль</t>
-       </tg>
-       </mg>
-       </e>
-<e>
-   <lg>
-     <l pos="A">вач сьӧд</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -262,55 +250,19 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Adv">буретш</l>
+     <l pos="Adv">сьӧкыда</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">шап</t>
+       <t pos="Descr">нуш-нуш</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">тiньгӧм</l>
-     <stg> <st/>
-     </stg>
-     </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">жон</t>
-       </tg>
-       </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">триньгӧм</l>
-     <stg> <st/>
-     </stg>
-     </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">жон</t>
-       </tg>
-       </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">бовгӧм</l>
-     <stg> <st/>
-     </stg>
-     </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">жон</t>
-       </tg>
-       </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">звӧн</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -323,19 +275,6 @@ transducers by Giellatekno at UiT and members of the language communities.
 <e>
    <lg>
      <l pos="Descr">тотш</l>
-     <stg> <st/>
-     </stg>
-     </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Descr">йыг</t>
-       <t pos="Descr">торк</t>
-       </tg>
-       </mg>
-       </e>
-<e>
-   <lg>
-     <l pos="N">тотшкӧдчан шы</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -360,6 +299,43 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="N">тотшкӧдчан шы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">йыг</t>
+       <t pos="Descr">торк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">триньгӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">жон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">тэрыб</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Descr">чип-чип</l>
      <stg> <st/>
      </stg>
@@ -372,19 +348,19 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Descr">шаракылӧм</l>
+     <l pos="A">чож</l>
      <stg> <st/>
      </stg>
-     </lg>
+   </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">ӵаштыр</t>
-       </tg>
-       </mg>
-       </e>
+       <t pos="Descr">шап</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
-     <l pos="Descr">шур-шар шыяс</l>
+     <l pos="N">шаракылӧм</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -399,13 +375,37 @@ transducers by Giellatekno at UiT and members of the language communities.
      <l pos="N">шум</l>
      <stg> <st/>
      </stg>
-     </lg>
+   </lg>
    <mg>
      <tg xml:lang="udm">
        <t pos="Descr">ӵаш</t>
-       </tg>
-       </mg>
-       </e>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шур-шар шыяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ӵаштыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">шушкыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">шӧнгыль</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="N">ыджыд шы</l>
@@ -420,13 +420,25 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Descr">шушкыль</l>
+     <l pos="A">югыд</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
-       <t pos="Descr">шӧнгыль</t>
+       <t pos="Descr">юг-юг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ӧти здукӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">ури-бери</t>
      </tg>
    </mg>
 </e>

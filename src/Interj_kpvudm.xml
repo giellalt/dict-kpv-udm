@@ -33,6 +33,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Interj">весась</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Interj">выжт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Interj">жӧ</l>
      <stg> <st/>
      </stg>
@@ -69,6 +81,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Interj">мун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Interj">выжт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Interj">ок</l>
      <stg> <st/>
      </stg>
@@ -81,7 +105,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Interj">шеть, мун, весась</l>
+     <l pos="Interj">шеть</l>
      <stg> <st/>
      </stg>
    </lg>

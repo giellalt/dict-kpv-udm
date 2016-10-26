@@ -21,30 +21,6 @@ transducers by Giellatekno at UiT and members of the language communities.
      </sourcenote> </lics>
 <e>
    <lg>
-     <l pos="Pcle">_i_кт¡_/i_ 1) да</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Pcle">бен</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">_i_сёрнис¡_/i_ да</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Pcle">бон</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pcle">аттьӧ</l>
      <stg> <st/>
      </stg>
@@ -52,6 +28,30 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pcle">тау</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">босьт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">ме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бур</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">ява</t>
      </tg>
    </mg>
 </e>
@@ -69,7 +69,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pcle">видлӧг вылӧ, шуам, со кӧть</l>
+     <l pos="Pcle">видлӧг вылӧ</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -81,7 +81,20 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pcle">вот-вот, тшук ӧнi</l>
+     <l pos="Pcle">вот</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">тани</t>
+       <t pos="Pcle">тӥни</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">вот-вот</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -105,6 +118,32 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Pcle">господи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">осто</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">да</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">бен</t>
+       <t pos="Pcle">бон</t>
+       <t pos="Pcle">угось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pcle">дзоньвидзалун вӧсна (вина юан помка висьталӧм бӧрын шуантор)</l>
      <stg> <st/>
      </stg>
@@ -117,7 +156,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pcle">енмӧй, господи</l>
+     <l pos="Pcle">енмӧй</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -136,18 +175,44 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pcle">бен</t>
+       <t pos="Pcle">ява</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">ладнӧ, бур</l>
+     <l pos="Pcle">инӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">иське</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">ладнӧ</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
        <t pos="Pcle">ява</t>
+       <t pos="Pcle">ӵок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">мед</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">ӵок</t>
      </tg>
    </mg>
 </e>
@@ -165,19 +230,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pcle">мед, ладнӧ</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Pcle">ӵок</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">мыйкӧ, эсiйӧ, эсiйӧ тай (пыртӧд кыв)</l>
+     <l pos="Pcle">мыйкӧ</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -189,25 +242,14 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pcle">на, нӧшта</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Pcle">на</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">на, со тэд, босьт</l>
+     <l pos="Pcle">на</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
        <t pos="Pcle">ме</t>
+       <t pos="Pcle">на</t>
      </tg>
    </mg>
 </e>
@@ -250,6 +292,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Pcle">нӧшта</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">на</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pcle">сiдз-сiдз</l>
      <stg> <st/>
      </stg>
@@ -257,24 +311,13 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pcle">бен</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">сiдз-сiдз, = </l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
        <t pos="Pcle">бон</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">сiдзкӧ, инӧ</l>
+     <l pos="Pcle">сiдзкӧ</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -286,19 +329,68 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Pcle">со, вот</l>
+     <l pos="Pcle">со</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
+       <t pos="Pcle">тани</t>
        <t pos="Pcle">тӥни</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">то, со, вот</l>
+     <l pos="Pcle">со кӧть</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">кылсярысь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">со тэд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">ме</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">сы вӧсна мый</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">угось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">сы понда мый</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">угось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">то</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -310,13 +402,50 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Pcle">тшук ӧнi</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">тани-тани</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pcle">шуам</l>
      <stg> <st/>
      </stg>
    </lg>
    <mg>
      <tg xml:lang="udm">
+       <t pos="Pcle">кылсярысь</t>
        <t pos="Pcle">шуом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эсiйӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">марым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">эсiйӧ тай (пыртӧд кыв)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pcle">марым</t>
      </tg>
    </mg>
 </e>
@@ -341,31 +470,9 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pcle">ведь</t>
-       <t pos="Pcle">ай</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">ӧд, жӧ</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Pcle">ява</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">ӧд, сы понда мый, сы вӧсна мый, да</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
        <t pos="Pcle">угось</t>
+       <t pos="Pcle">ява</t>
+       <t pos="Pcle">ай</t>
      </tg>
    </mg>
 </e>
@@ -377,13 +484,14 @@ transducers by Giellatekno at UiT and members of the language communities.
    </lg>
    <mg>
      <tg xml:lang="udm">
+       <t pos="Pcle">шат</t>
        <t pos="Pcle">а</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Pcle">–ӧ, ӧмӧй</l>
+     <l pos="Pcle">–ӧ</l>
      <stg> <st/>
      </stg>
    </lg>
