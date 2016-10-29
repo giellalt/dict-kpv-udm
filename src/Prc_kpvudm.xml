@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>The material is based on the following 
+
+Цыпанов Й. 2007: Удмурт кыввор да лыддянкуд.
+Россияса наукаяс академия
+Урал юкöд
+Коми туялан шöрин
+Кыв, литература да история институт.
+ — Сыктывкар.
+
+transducers by Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>The material was prepared for electronic publication by Evgeni Tsypanov and Jack Rueter.
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+<e>
+   <lg>
+     <l pos="Prc">вӧвлӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">ортчем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">жаритӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">пыжэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">кольӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">кылем</t>
+       <t pos="Prc">ортчем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">кувсьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">кулэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">кулӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">кулэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">кыӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">куэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">мудзӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">мӧзмем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">норасьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">чагиськем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">пукалӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">пукем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">пӧжалӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">пыжэм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">сёйӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">сием</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">сӧкъя</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">жалем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">турӧб</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">пельскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">улис</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">жалем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">чужан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">вордскем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">элясьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Prc">чагиськем</t>
+     </tg>
+   </mg>
+</e>
+</r>
