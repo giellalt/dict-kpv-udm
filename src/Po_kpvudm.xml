@@ -215,18 +215,6 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Po">дiнӧ</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="Po">вӧзы</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Po">джуджда</l>
      <stg> <st/>
      </stg>
@@ -263,7 +251,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Po">дортi</l>
+     <l pos="Po">дорті</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -353,6 +341,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Po">дінӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Po">вӧзы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">ина вежӧртаса отсасян кыв</l>
      <stg> <st/>
      </stg>
@@ -401,7 +401,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Po">косттi</l>
+     <l pos="Po">костті</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -675,7 +675,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="Po">пӧвсттi</l>
+     <l pos="Po">пӧвстті</l>
      <stg> <st/>
      </stg>
    </lg>

@@ -1178,7 +1178,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">вывтi</l>
+     <l pos="A">вывті</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1190,7 +1190,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">вывтi моднӧя</l>
+     <l pos="A">вывті моднӧя</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -1202,7 +1202,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">вывтi сола</l>
+     <l pos="A">вывті сола</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -2012,44 +2012,6 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">зiль</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="A">мылкыдо</t>
-       <t pos="A">сюлмо</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">зiльысь</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="A">мылкыдо</t>
-       <t pos="A">тыршись</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">зiля</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="A">сюлмо</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A">збой</l>
      <stg> <st/>
      </stg>
@@ -2230,6 +2192,44 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="A">ӝикыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">зіль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="A">мылкыдо</t>
+       <t pos="A">сюлмо</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">зільысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="A">мылкыдо</t>
+       <t pos="A">тыршись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">зіля</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="A">сюлмо</t>
      </tg>
    </mg>
 </e>
@@ -3594,7 +3594,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">мелi</l>
+     <l pos="A">мелі</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -3606,7 +3606,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">мелiа</l>
+     <l pos="A">меліа</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -4567,7 +4567,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">прӧстӧ сiдз</l>
+     <l pos="A">прӧстӧ сідз</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -4868,30 +4868,6 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="A">обинь</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">сiдз шуана</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="A">шуоно</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">сiдз-тадз</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="A">огшоры</t>
      </tg>
    </mg>
 </e>
@@ -5602,6 +5578,30 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="A">бер</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сідз шуана</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="A">шуоно</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">сідз-тадз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="A">огшоры</t>
      </tg>
    </mg>
 </e>
@@ -6422,7 +6422,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">шондiа</l>
+     <l pos="A">шондіа</l>
      <stg> <st/>
      </stg>
    </lg>
@@ -7032,7 +7032,7 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
-     <l pos="A">ӧнiя</l>
+     <l pos="A">ӧнія</l>
      <stg> <st/>
      </stg>
    </lg>
