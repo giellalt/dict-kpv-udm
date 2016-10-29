@@ -21,66 +21,6 @@ transducers by Giellatekno at UiT and members of the language communities.
      </sourcenote> </lics>
 <e>
    <lg>
-     <l pos="V">I лысьтыны</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="V">кыскыны</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">I сотны</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="V">сутыны</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">I увтны</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="V">утыны</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">II 1) кыскыны</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="V">кыскыны</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">II ворсӧмын вермыны</l>
-     <stg> <st/>
-     </stg>
-   </lg>
-   <mg>
-     <tg xml:lang="udm">
-       <t pos="V">утыны</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">аборт вӧчны</l>
      <stg> <st/>
      </stg>
@@ -99,6 +39,7 @@ transducers by Giellatekno at UiT and members of the language communities.
    </lg>
    <mg>
      <tg xml:lang="udm">
+       <t pos="V">ӧвӧл</t>
        <t pos="V">ӧвӧл</t>
      </tg>
    </mg>
@@ -1881,6 +1822,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="V">шудыны</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ворсӧмын вермыны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="V">утыны</t>
      </tg>
    </mg>
 </e>
@@ -6168,6 +6121,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="V">кыскыны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="V">кыскыны</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="V">кысъясьны</l>
      <stg> <st/>
      </stg>
@@ -6832,6 +6797,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="V">дӥсьтыны</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лысьтыны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="V">кыскыны</t>
      </tg>
    </mg>
 </e>
@@ -11222,6 +11199,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="V">сотны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="V">сутыны</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="V">сотчыны</l>
      <stg> <st/>
      </stg>
@@ -11317,6 +11306,7 @@ transducers by Giellatekno at UiT and members of the language communities.
      <tg xml:lang="udm">
        <t pos="V">курланы</t>
        <t pos="V">судить карыны</t>
+       <t pos="V">cудить карыны</t>
      </tg>
    </mg>
 </e>
@@ -12561,6 +12551,7 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="V">окмыны</t>
+       <t pos="V">тырмыны</t>
      </tg>
    </mg>
 </e>
@@ -12884,6 +12875,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="V">вӧльыны</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">увтны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="V">утыны</t>
      </tg>
    </mg>
 </e>
@@ -14687,6 +14690,7 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="V">вань</t>
+       <t pos="V">вань</t>
      </tg>
    </mg>
 </e>
@@ -15143,6 +15147,7 @@ transducers by Giellatekno at UiT and members of the language communities.
      <tg xml:lang="udm">
        <t pos="V">курланы</t>
        <t pos="V">судить карыны</t>
+       <t pos="V">cудить карыны</t>
      </tg>
    </mg>
 </e>

@@ -33,6 +33,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Num">вит</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Num">вить</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Num">дас</l>
      <stg> <st/>
      </stg>
@@ -100,6 +112,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Num">куинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">кызь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Num">кызь</t>
      </tg>
    </mg>
 </e>
@@ -208,6 +232,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Num">сюрс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">сё</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Num">сю</t>
      </tg>
    </mg>
 </e>

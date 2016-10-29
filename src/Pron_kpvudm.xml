@@ -306,6 +306,32 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pron">мар</t>
+       <t pos="Pron">ма</t>
+       <t pos="Pron">маке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мый ли</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">мар-а</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйкӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">маке</t>
      </tg>
    </mg>
 </e>
@@ -355,6 +381,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pron">маин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мӧда-мӧдӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">ог-огзы</t>
      </tg>
    </mg>
 </e>
@@ -432,6 +470,30 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Pron">сiйӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">со</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">сiйӧ ли мый ли</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">мар-а</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pron">ставыс</l>
      <stg> <st/>
      </stg>
@@ -494,6 +556,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Pron">тiян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">тӥляд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pron">та</l>
      <stg> <st/>
      </stg>
@@ -525,6 +599,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Pron">кӧня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ёрта-ёртӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Pron">ог-огзы</t>
      </tg>
    </mg>
 </e>

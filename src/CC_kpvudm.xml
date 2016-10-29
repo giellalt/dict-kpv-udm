@@ -21,6 +21,18 @@ transducers by Giellatekno at UiT and members of the language communities.
      </sourcenote> </lics>
 <e>
    <lg>
+     <l pos="CC">а</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="CC">нош</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="CC">али</l>
      <stg> <st/>
      </stg>
@@ -40,6 +52,19 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="CC">меда</t>
+       <t pos="CC">яке</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CC">либӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="CC">яке</t>
      </tg>
    </mg>
 </e>

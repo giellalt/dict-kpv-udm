@@ -117,6 +117,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Descr">дзим-дзурк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чылк-чылк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Descr">жбыр-жбыр</l>
      <stg> <st/>
      </stg>
@@ -166,6 +178,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Adv">зэв сӧстӧма</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">чылк-чылк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Adv">зэв ӧдйӧ</l>
      <stg> <st/>
      </stg>
@@ -190,6 +214,18 @@ transducers by Giellatekno at UiT and members of the language communities.
 </e>
 <e>
    <lg>
+     <l pos="Descr">крав-крав</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">крок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Descr">кӧчиль</l>
      <stg> <st/>
      </stg>
@@ -209,6 +245,18 @@ transducers by Giellatekno at UiT and members of the language communities.
    <mg>
      <tg xml:lang="udm">
        <t pos="Descr">кече-пеле</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ракалӧн кравзан шы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="udm">
+       <t pos="Descr">крок</t>
      </tg>
    </mg>
 </e>
